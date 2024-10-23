@@ -1,3 +1,3 @@
 # Compile <br>
 
-g++ -std=c++17 -o vulkan_sdl3_example vulkan_sdl3_example.cpp -lSDL3 -lvulkan
+g++ -std=c++17 -o vulkan vulkan.cpp -lSDL3 -lvulkan
